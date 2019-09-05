@@ -1,0 +1,9 @@
+#cool-button {
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(60, 60, 150);
+    color: white;
+    font-weight: 500;
+}
